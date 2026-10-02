@@ -122,8 +122,11 @@ La siguiente línea
 
 Hecho.
 
-4. Crea un directorio llamado images en el repositorio y añade una imagen.
-5. Incluye la imagen que has añadido al repositorio dentro del documento.
-6. Crea un nuevo documento Markdown en el repositorio.
+4. Crea un directorio llamado images en el repositorio y añade una imagen. Hecho.
+5. Incluye la imagen que has añadido al repositorio dentro del documento. Hecho.
+6. Crea un nuevo documento Markdown en el repositorio. Hecho.
 7. Crea un enlace desde el archivo README.md al nuevo documento que acabas de crear.
+
+[Ir a document.md](images/documento.md)
+
 8. Completa el nuevo documento utilizando algunos elementos de la sintaxis de Markdown que hemos estudiado.
