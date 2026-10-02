@@ -129,4 +129,6 @@ Hecho.
 
 [Ir a document.md](images/documento.md)
 
-8. Completa el nuevo documento utilizando algunos elementos de la sintaxis de Markdown que hemos estudiado.
+Hecho.
+
+8. Completa el nuevo documento utilizando algunos elementos de la sintaxis de Markdown que hemos estudiado. Hecho.
